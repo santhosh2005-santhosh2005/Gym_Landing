@@ -7,9 +7,9 @@ gsap.registerPlugin(ScrollTrigger);
 
 const NeobrutalistGrid: React.FC<{ color: string }> = ({ color }) => (
   <div className="absolute inset-0 pointer-events-none opacity-20">
-    <div className="h-full w-full border-[1px] border-black grid grid-cols-6 grid-rows-6">
+    <div className={`h-full w-full border-[1px] grid grid-cols-6 grid-rows-6 ${color === 'white' ? 'border-white/20' : 'border-black/20'}`}>
       {[...Array(36)].map((_, i) => (
-        <div key={i} className="border-[0.5px] border-black/10" />
+        <div key={i} className={`border-[0.5px] ${color === 'white' ? 'border-white/10' : 'border-black/10'}`} />
       ))}
     </div>
   </div>
