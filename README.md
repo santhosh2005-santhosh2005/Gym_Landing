@@ -2,6 +2,8 @@
 
 A high-impact, cinematic "Scrollytelling" experience built with **React**, **GSAP**, and **Lenis**. This project pushes the boundaries of modern web design with a brutalist, high-contrast aesthetic, scroll-linked parallax typography, and layered reveal mechanics.
 
+**🔗 Live Demo:** [https://gym-landingpg.vercel.app/](https://gym-landingpg.vercel.app/)
+
 ---
 
 ## 📽️ Project Demo
