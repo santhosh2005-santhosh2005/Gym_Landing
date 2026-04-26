@@ -6,7 +6,8 @@ A high-impact, cinematic "Scrollytelling" experience built with **React**, **GSA
 
 ## 📽️ Project Demo
 
-https://github.com/santhosh2005-santhosh2005/Gym_Landing/raw/main/public/demo.mp4
+<video src="https://github.com/santhosh2005-santhosh2005/Gym_Landing/raw/main/public/demo.mp4" controls="controls" style="max-width: 100%;">
+</video>
 
 ---
 
